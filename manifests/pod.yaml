@@ -4,7 +4,7 @@ metadata:
   name: myapp-nginx
   labels:
     app: myapp
-    namespace: argocd
+  namespace: argocd
 spec:
   containers:
   - name: myapp
