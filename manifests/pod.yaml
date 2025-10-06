@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: myapp
-    image: nginx:latest
+    image: manchalsharma08/my-nginx-app:7096e366dc5b695ab04516b00382053b855b380e
     ports:
       - containerPort: 80
         
